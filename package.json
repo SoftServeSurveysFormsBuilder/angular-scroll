@@ -12,10 +12,10 @@
   "main": "angular-scroll.js",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com:oblador/angular-scroll.git"
+    "url": "git://git@github.com:SoftServeSurveysFormsBuilder/angular-scroll.git"
   },
   "bugs": {
-    "url": "https://github.com/oblador/angular-scroll/issues"
+    "url": "https://github.com/SoftServeSurveysFormsBuilder/angular-scroll/issues"
   },
   "scripts": {
     "start": "http-server -p 8888",
